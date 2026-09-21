@@ -1,0 +1,46 @@
+.prerequisites {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  color: #fff;
+}
+
+.prerequisites h1 {
+  font-size: 5rem;
+  margin-bottom: 2rem;
+  text-align: top;
+  text-decoration: line-through;
+}
+
+.prerequisites ul {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  font-size: large;
+  margin-bottom: 1.5rem;
+}
+.prerequisites li {
+  margin-bottom: 1rem;
+}
+.prerequisites button {
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 0.1px solid white;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  z-index: 2;
+  margin-top: 1rem;
+}
+
+.prerequisites h6 {
+  margin-top: 2rem;
+  font-size: medium;
+}
