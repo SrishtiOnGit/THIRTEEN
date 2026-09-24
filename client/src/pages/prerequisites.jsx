@@ -7,8 +7,7 @@ const PreRequisites = () => {
     <div className="prerequisites">
       <h1>BEFORE YOU BEGIN</h1>
       <ul>
-        <li>Headphones Recomended</li>
-        <li>Keep your sound on</li>
+        <li>Sit relaxed.</li>
         <li>Best experienced in a dark room</li>
         <li>Use a mouse for the full experience</li>
         <li>Take your time. Don't skip ahead.</li>
