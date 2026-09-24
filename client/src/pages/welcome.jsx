@@ -1,5 +1,5 @@
 import himg from "../assets/image.png";
-import halloween from "../assets/halloween-g.jpg";
+import halloween from "../assets/halloween.jpg";
 import "./welcome.css";
 import { useNavigate } from "react-router-dom";
 

@@ -1,0 +1,64 @@
+.horror {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.glass,
+.web {
+  opacity: 0.5;
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  border-radius: 0;
+  z-index: 1;
+  background: transparent;
+}
+
+.glass {
+  top: 380px;
+  left: 100px;
+  transform: rotate(-15deg);
+}
+
+.web {
+  top: 50px;
+  right: 0px;
+  transform: rotate(15deg);
+}
+
+.horror h3 {
+  margin-top: 2rem;
+  font-size: 50px;
+  color: #fff;
+}
+
+.typewriter {
+  text-align: center;
+  font-size: 15px;
+  color: #fff;
+  font-family: monospace;
+  font-weight: bold;
+  max-width: 1000px;
+  max-height: 500px;
+  margin: 0 auto;
+}
+
+.typewrite {
+  margin: 0;
+  letter-spacing: 0.1em;
+  line-height: 3rem;
+  white-space: pre-wrap;
+}
+
+.horror button {
+  margin-top: auto;
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 0.1px solid white;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
