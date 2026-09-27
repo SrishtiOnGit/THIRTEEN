@@ -1,10 +1,14 @@
 # THE THIRTEEN
 
-It's a website made to ship on 3am.. it basically tells you a story and is made in halloween-dark theme. 
+## What's this ? 
+This is a website which is made to ship on 3am..it basically tells you a horror story with added sound effects and a halloween-dark-themed website.
 
 ## The Purpose : 
 
 For me, the purpose of building this website is to ship at 3am and learn more react concepts.
+
+## Inspiration : 
+The Thirteen was inspired by the mystery and atmosphere of Halloween. I wanted to build a website that felt like telling a horror story with horror experiences like adding horror sound effects and background.
 
 ## What did I learned : 
 1. React Components use
