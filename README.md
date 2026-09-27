@@ -34,5 +34,9 @@ Can visit ** https://srishtiongit.github.io/THIRTEEN/** to see it live.
 1. ClickSound for buttons.
 2. SpookySound for background music.
 
+## Assets Source : 
+1. https://www.magnific.com/photos/sad-ghost/3
+2. https://unsplash.com/photos/pumpkin-head-scarecrow-decor-HSCk4Q55bvQ
+
 ## Use of AI : 
 No, AI has been used to copy the code. Took the help from AI to know the concepts like which state to use for this.
