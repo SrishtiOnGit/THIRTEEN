@@ -9,7 +9,7 @@
 
 .himg,
 .halloweenimg {
-  opacity: 0.5;
+  opacity: 0.6;
   width: 200px;
   height: 300px;
   position: absolute;
@@ -25,7 +25,7 @@
 }
 
 .halloweenimg {
-  top: 100px;
+  top: 70px;
   right: 200px;
   transform: rotate(15deg);
 }

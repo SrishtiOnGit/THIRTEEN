@@ -1,5 +1,5 @@
 import himg from "../assets/image.png";
-import halloween from "../assets/halloween.jpg";
+import halloween from "../assets/halloween.png";
 import clickSound from "../assets/ClickSound.mp3";
 
 import "./welcome.css";
