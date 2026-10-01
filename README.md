@@ -35,7 +35,7 @@ Can visit ** https://srishtiongit.github.io/THIRTEEN/** to see it live.
 2. SpookySound for background music.
 
 ## Assets Source : 
-1. https://www.magnific.com/photos/sad-ghost/3
+1. [https://www.magnific.com/photos/sad-ghost/3](https://unsplash.com/photos/jack-o-lantern-decor--XUGYfWq9IU)
 2. https://unsplash.com/photos/pumpkin-head-scarecrow-decor-HSCk4Q55bvQ
 
 ## Use of AI : 
